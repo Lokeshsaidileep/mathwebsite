@@ -241,7 +241,7 @@ h1{
 ## OUTPUT:
 
 
-![OUTPUT](.png)
+![OUTPUT](1.png)
 ![OUTPUT](2.png)
 
 
